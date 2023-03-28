@@ -8,9 +8,7 @@ Created on Mon Mar 27 20:36:36 2023
 
 print('Hello, World!!!')
 
-x = 10
-
-print(x*2)
+print('No more math.')
 
 
 
