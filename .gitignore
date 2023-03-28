@@ -6,3 +6,7 @@
 *.xlsx
 MTO_treatments.xlsx
 *.xlsx
+*.xlsx
+.DS_Store
+*.xlsx
+MTO_treatments.xlsx
